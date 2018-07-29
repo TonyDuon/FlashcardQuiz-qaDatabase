@@ -37,11 +37,5 @@
             "answer": "Stores information in a memory address to be referenced and manipulated in a computer program",
             "otherInfo":""
         }        
-    ],
-    
-    "default": {
-            "question": "",
-            "answer": "",
-            "otherInfo":""
-        }
+    ]
 }
