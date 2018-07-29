@@ -1,5 +1,5 @@
 {
-    programming: [
+    "programming": [
         {
             "question": "What is an Alogrithm?",
             "answer": "A set of ordered and finite steps used to solve a given problem",
@@ -39,7 +39,7 @@
         }        
     ],
     
-    default: {
+    "default": {
             "question": "",
             "answer": "",
             "otherInfo":""
