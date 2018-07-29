@@ -33,8 +33,7 @@
 		},
 		{
 			"question": "Define a variable",
-			"answer": "Stores information in a memory address to be referenced and manipulated in a computer program",
-			"otherInfo": ""
+			"answer": "Stores information in a memory address to be referenced and manipulated in a computer program"
 		}
 	]
 }
