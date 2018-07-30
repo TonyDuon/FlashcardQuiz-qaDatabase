@@ -1,5 +1,6 @@
 {
-	"programming": [{
+	"programming": [
+		{
 			"question": "What is an Alogrithm?",
 			"answer": "A set of ordered and finite steps used to solve a given problem"
 		},
@@ -34,6 +35,28 @@
 		{
 			"question": "Define a variable",
 			"answer": "Stores information in a memory address to be referenced and manipulated in a computer program"
+		}
+	],
+	"videoGames":[
+		{
+			"question": "Which platform acheived the #1 highest record of units ever sold (155 million units)?",
+			"answer": "Playstation 2"
+		},
+		{
+			"question": "Blueray-based videogames was first introduced by which platform?",
+			"answer": "Playstation 3"
+		},
+		{
+			"question": "What console was created after a result of a failed collaboration with Nintendo?",
+			"answer": "Playstation 1"
+		},
+		{
+			"question": "Which platform was first to introduced online multiplayer gaming?",
+			"answer": "Original Xbox"
+		},
+		{
+			"question": "Mario was first introduced on what platform?",
+			"answer": "Nintendo Entertainment System (NES)"
 		}
 	]
 }
