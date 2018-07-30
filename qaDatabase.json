@@ -10,7 +10,7 @@
 		},
 		{
 			"question": "Define JSON",
-			"answer": "Used to convert any javascript object into text and vice versa, allowing communication between browser and server",
+			"answer": "Converts any javascript object into text and vice versa, allowing communication between browser and server",
 			"otherInfo": "JavaScript Object Notation"
 		},
 		{
